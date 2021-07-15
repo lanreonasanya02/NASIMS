@@ -1,0 +1,281 @@
+body{
+    font-family: verdana;
+    font-size: 15px;
+}
+navb{
+	background-color: white;
+}
+
+.links{
+	color: grey;
+	text-decoration: none;
+}
+
+.pill-nav a {
+  display: inline-block;
+  color: grey;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+  font-size: 17px;
+  border-radius: 5px;
+}
+
+.pill-nav a:hover {
+  background-color: white;
+  color: black;
+}
+
+.pill-nav a.active {
+ background-color: grey;
+  color: white;
+
+}
+.spanstyle1{display: block;
+font-weight: bold;}
+
+.spanstyle{display: block;}
+
+.navbar1{
+    position: fixed;
+    z-index: 9;
+    background-color: white;
+    width: 100%;
+}
+
+.nav{
+	padding-left: 45em;
+	padding-top: 10px;
+}
+
+.inner{color: green;}
+.inner:hover{text-decoration: none;}
+
+.navbutton{
+      color: white;
+      background-color: #288855;
+      border-radius: 5px;
+      margin-left: 8px;
+      padding-left: 80px;
+      padding-right: 80px;
+      padding-top: 15px;
+      padding-bottom: 15px;
+  }
+  .button2{
+  	color: white;
+      background-color: #288855;
+      border-radius: 5px;
+      padding-left: 60px;
+      padding-right: 60px;
+      padding-top: 15px;
+      padding-bottom: 15px;
+
+  }
+  .button3{
+  	background-color: #DBF9EA;
+  	color: green;
+  	margin-left: 15px;
+  }
+
+.images{
+	width: 100%;
+	height: 100%;
+	margin-left: 5em;
+}
+
+.carou{
+	/*margin-left: 10px;
+	margin-right: 10px;*/
+	padding-top: 7em;
+	width: 100%;
+}
+.sec1{
+	padding-left: 70px;
+	padding-top: 80px;
+	
+}
+.one{
+	background-color: #FFFBF6;
+}
+
+.two{
+	background-color: #F2FCF9;
+}
+.three{
+	background-color: #FCF4F2;
+}
+.logo {
+	height: 25%;
+	width: 25%;
+}
+
+ .welcomebottom{
+      background-color: black;
+      color: white;
+      text-align: center;
+      padding-top: 15px;
+      padding-bottom: 4px;
+      margin-top: 0px;
+      margin-right: 10px;      
+  }
+
+  .image{
+	width: 80%;
+	height: 90%;
+}
+
+  .top2{
+  	margin-top: 80px;
+  	margin-left: 10px;
+  	margin-right: 10px;
+  	padding-left: 70px;
+  	padding-right: 10px;
+  	padding-top: 35px;
+  	}
+
+  .top3{
+  	margin-top: 200px;
+  	margin-left: 10px;
+  	margin-right: 10px;
+  	padding-left: 4em;
+  	padding-right: 10px;
+  }
+  .images3{
+  	width: 100%;
+	height: 100%;
+	padding-left: 200px;
+	margin-top: -50px;
+  }
+ 
+  .top4{
+  	margin-top: 80px;
+  	padding-bottom: 60px;
+  	margin-left: 10px;
+  	margin-right: 10px;
+  	padding-left: 80px;
+  	padding-top: 40px;
+  	background-color: #F2FCF9;
+  }
+
+   .tophead{
+  	text-align: center;
+  }
+
+.standard{
+  	margin-left: 70px;
+  }
+  .stan{
+  	padding-left: 40px;
+  }
+  .color{
+  	color: #F9AE00;
+  }
+
+.top5 {
+	margin-top: 40px;
+  	margin-left: 90px;
+  	margin-right: 10px;
+  	padding-left: 30px;
+  	padding-right: 10px;
+  	padding-top: 35px;
+  	background-color: white !important;
+}
+
+/*.ones{
+	padding-left: 45px;
+}*/
+
+.news{
+	margin-top: 40px;
+	margin-left: 41rem;
+}
+
+.welcomebottom2{
+      background-color: black;
+      color: white;
+      text-align: center;
+      padding-left: 70px;
+      padding-top: 50px;
+      padding-bottom: 20px;
+      margin-right: 10px; 
+      margin-top: 50px;
+	     
+  }
+  .fa{
+      font-size: 30px;
+      padding: 30px;
+      color: white;
+     }
+
+     a:hover{
+        text-decoration: none;
+        color: green;
+    }
+
+  .top6{
+  	margin-top: 30px;
+  	margin-right: 10px;
+  	padding-left: 70px;
+  	padding-right: 10px;
+  	padding-top: 35px;
+  	background-color: white; 
+  	text-align: center;
+  }
+  .top7{
+  	margin-top: 30px;
+  	margin-right: 10px;
+  	padding-left: 70px;
+  	padding-right: 10px;
+  	padding-top: 35px;
+  	padding-bottom: 20px;
+  	background-color: #07321B;
+  	color: white; 
+  	text-align: center;
+  }
+.atag{color: white; 
+	text-decoration: none;
+	padding-left: 15px;
+}
+ .atag1{color: white; 
+ 	text-decoration: none;
+ }
+ div.card {
+  width: 250px;
+  box-shadow: 0 4px 8px 0; /*rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);*/
+}
+
+
+
+/*Media Queries*/
+
+/*@media screen and (max-width: 480px){
+	
+	.navhead{display: none;}
+
+	nav {
+		height: 350px;
+		flex-direction: column;
+		text-align: center;
+	}
+
+@media screen and (max-width: 768px){
+	
+}
+
+@media screen and (max-width: 1024px){
+	
+}
+
+@media screen and (max-width: 1280px){
+	
+}
+*/
+@media (max-width: 768px){
+	body > div.navbar1 > nav > h6{
+		color: red;
+	}
+}
+
+
+
+

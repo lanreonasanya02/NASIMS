@@ -1,0 +1,192 @@
+body{
+    font-family: verdana;
+    font-size: 15px;
+}
+navb{
+	background-color: white;
+}
+
+.navbar1{
+    position: fixed;
+    z-index: 9;
+    background-color: white;
+    width: 100%;
+    margin-bottom: 3em;
+}
+
+.links{
+	color: grey;
+	text-decoration: none;
+}
+
+.pill-nav a {
+  display: inline-block;
+  color: grey;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+  font-size: 17px;
+  border-radius: 5px;
+}
+
+.pill-nav a:hover {
+  background-color: white;
+  color: black;
+}
+
+.pill-nav a.active {
+ background-color: grey;
+  color: white;
+}
+
+.spanstyle1{display: block;
+font-weight: bold;}
+
+.spanstyle{display: block;}
+
+.nav{
+	padding-left: 350px;
+	padding-top: 10px;
+}
+.navbutton{
+      color: white;
+      background-color: #288855;
+      border-radius: 5px;
+      margin-left: 8px;
+      padding-left: 80px;
+      padding-right: 80px;
+      padding-top: 15px;
+      padding-bottom: 15px;
+  }
+
+.button2{
+     color: white;
+      background-color: #288855;
+      border-radius: 5px;
+      padding-left: 60px;
+      padding-right: 60px;
+      padding-top: 15px;
+      padding-bottom: 15px;
+}
+
+.top1{
+    margin-top: 0em;
+    padding-top: 10em;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-bottom: 100px;
+    /*padding-left: 30px;
+    padding-right: 10px;*/
+    text-align: center;
+    background-image: url(../photos/about1ed.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+}
+    /*width: 100%;*/
+    
+}
+.top1sub{
+    text-align: center;
+}
+.top2{
+    margin-top: 70px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 70px;
+    padding-right: 10px;
+    padding-top: 35px;
+}
+.sec2{
+    margin-left: -40px;
+    padding-right: 8rem;
+    margin-top: -70px;
+    padding-top: 5em;
+    
+}
+.sec2-1{text-align: justify;}
+
+.top3{
+    margin-top: 90px;
+    margin-right: 10px;
+    padding-left: 70px;
+    padding-right: 10px;
+    padding-top: 35px;
+    background-color: #FFFBF6; 
+    text-align: center;
+  }
+
+.spanstyle{
+    display: block; 
+    font-weight: bold;}
+
+.top4 {
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-top: 35px;
+    background-color: white;
+}
+ .tophead{
+    text-align: center;
+  }
+
+.news{
+    margin-top: 40px;
+    margin-left: 34rem;
+}
+
+.welcomebottom2{
+      background-color: black;
+      color: white;
+      text-align: center;
+      padding-left: 70px;
+      padding-top: 50px;
+      padding-bottom: 20px;
+      margin-right: 10px; 
+      margin-top: 50px;
+         
+  }
+  .fa{
+      font-size: 30px;
+      padding: 30px;
+      color: white;
+     }
+
+    a:hover{
+        text-decoration: none;
+        color: green;
+    }
+  .top5{
+    margin-top: 30px;
+    margin-right: 10px;
+    padding-left: 70px;
+    padding-right: 10px;
+    padding-top: 35px;
+    background-color: white; 
+    text-align: center;
+  }
+  .top6{
+    margin-top: 30px;
+    margin-right: 10px;
+    padding-left: 70px;
+    padding-right: 10px;
+    padding-top: 35px;
+    padding-bottom: 20px;
+    background-color: #07321B;
+    color: white; 
+    text-align: center;
+  }
+.atag{color: white; 
+    text-decoration: none;
+    padding-left: 15px;
+}
+ .atag1{color: white; 
+    text-decoration: none;
+ }
+ div.card {
+  width: 250px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

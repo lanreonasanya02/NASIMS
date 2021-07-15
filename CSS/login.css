@@ -1,0 +1,109 @@
+body{
+    font-family: verdana;
+    font-size: 15px;
+}
+navb{
+	background-color: white;
+}
+
+.navbar1{
+    position: fixed;
+    z-index: 9;
+    background-color: white;
+    width: 100%;
+}
+
+.navbar1{
+    position: fixed;
+    z-index: 9;
+    background-color: white;
+    width: 100%;
+}
+
+.links{
+	color: grey;
+	text-decoration: none;
+}
+
+.pill-nav a {
+  display: inline-block;
+  color: grey;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+  font-size: 17px;
+  border-radius: 5px;
+}
+
+.pill-nav a:hover {
+  background-color: grey;
+  color: white;
+}
+
+/*.pill-nav a.active {
+ text-decoration: overline;
+  color: black;
+}*/
+
+.spanstyle1{display: block;
+font-weight: bold;}
+
+.spanstyle{display: block;}
+
+.nav{
+	padding-left: 35em;
+	padding-top: 10px; 
+	}
+
+.header{
+	padding-top: 8em;
+	padding-left: 2em;
+}
+
+.logintext{
+	background-color: #DBF9EA;
+	padding-left: 3em;
+	padding-top: 50px;
+	padding-right: 3em;
+	padding-bottom: 50px;
+}
+.user{
+	margin-top: 10px;
+	width: 100%;
+	border-radius: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-color: grey;
+}
+.button2{
+	padding-left: 11em;
+	padding-right: 11em;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #74B291;
+	color: white;
+	border-radius: 5px;
+}
+.fpass{
+	padding-left: 7em;
+}
+.fpass1:hover{color: grey; text-decoration: none;}
+
+.top2{
+	margin-top: 30px;
+    margin-right: 40px;
+    margin-left: 5px;
+    padding-left: 40px;
+    padding-right: 20em;
+    padding-top: 2em;
+    margin-bottom: 4em;
+   }
+
+   .loginbar{
+   	margin-left: 30px
+   	margin-right: 10px;
+   	padding-left: 10em;
+   	padding-top: 80px;
+   }
+
+   a{color: green;}
